@@ -1,2 +1,2 @@
 # rpgweathergen
-Weather generator for old-schoo RPGl wilderness adventures.
+Weather generator for old-school RPG wilderness adventures.
